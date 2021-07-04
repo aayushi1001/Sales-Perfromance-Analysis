@@ -16,7 +16,7 @@ We will be using two datasets here i.e. Sample - Superstore and Sales_Target.
 
 Within this file you will find the following fields:
 
-Field 	Description
+Field 	Description 
 Row ID	Observation Index
 Order ID	Unique Order ID of a product
 Order Date	Order Placement Date
