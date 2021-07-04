@@ -51,11 +51,11 @@ Order Date	Order Placement Date
 Sales Target	Targeted Sales to be achieved 
 Segment	Product Segment (i.e.HomeOffice/Corporate/Consumer etc.)
  
+.
 
 
 
-
-
+.
 
 
 Problem Solving Approach :
